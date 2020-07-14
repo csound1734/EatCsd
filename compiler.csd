@@ -9,7 +9,7 @@ sr=48000
 ksmps=32
 nchnls=1
 instr 17
-ires compileorc "/storage/emulated/0/Csound/compdis.orc"
+ires compileorc "/storage/emulated/0/Csound/example.orc"
 print ires
 endin
 </CsInstruments>
